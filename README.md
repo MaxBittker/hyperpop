@@ -1,2 +1,0 @@
-# hyperpop
-Created with CodeSandbox
